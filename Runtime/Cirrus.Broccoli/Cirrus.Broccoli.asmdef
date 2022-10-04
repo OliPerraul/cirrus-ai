@@ -1,0 +1,19 @@
+{
+    "name": "Cirrus.Broccoli",
+    "rootNamespace": "Cirrus",
+    "references": [
+        "GUID:e4ed7c29e8b555c41adb7e007c97ac6e",
+        "GUID:478a2357cc57436488a56e564b08d223",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:c5b4a6f689443f9478682815cf8b00cc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
